@@ -293,4 +293,4 @@ Durante o desenvolvimento deste projeto, foram utilizadas ferramentas de intelig
 
 **Última atualização**: 08/03/2026  
 **Versão**: 1.0  
-**Licença**: Educacional (Creative Commons Attribution-NonCommercial-ShareAlike 4.0)
+**Licença**: Educacional (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 )
